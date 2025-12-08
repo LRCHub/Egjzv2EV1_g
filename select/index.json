@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "THE WINNER",
+  "base_artist": "松原みき",
+  "createdAt": "2025-12-08T11:04:08.872204Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Winner",
+      "artist": "Bobby Bare",
+      "has_synced": true,
+      "path": "select/01_The_Winner_Bobby_Bare.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Here Comes the Winner",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/02_Here_Comes_the_Winner_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/03_The_Winner_Takes_It_All_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/04_The_Winner_Takes_It_All_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/05_The_Winner_Takes_It_All_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Winner",
+      "artist": "The Crystal Method",
+      "has_synced": false,
+      "path": "select/06_The_Winner_The_Crystal_Method.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Winner",
+      "artist": "Treat",
+      "has_synced": false,
+      "path": "select/07_The_Winner_Treat.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Roc Boys (And The Winner Is)...",
+      "artist": "JAY Z",
+      "has_synced": true,
+      "path": "select/08_Roc_Boys_(And_The_Winner_Is)..._JAY_Z.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Roc Boys (And The Winner Is)... (Album Version Explicit)",
+      "artist": "Jay-Z",
+      "has_synced": true,
+      "path": "select/09_Roc_Boys_(And_The_Winner_Is)..._(Album_Version_Explicit)_Jay-Z.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/10_The_Winner_Takes_It_All_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "0527 - Abba - The Winner Takes It All",
+      "artist": "Abba",
+      "has_synced": true,
+      "path": "select/11_0527_-_Abba_-_The_Winner_Takes_It_All_Abba.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/12_The_Winner_Takes_It_All_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/13_The_Winner_Takes_It_All_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "10 Scene Points To The Winner",
+      "artist": "Funeral for a Friend",
+      "has_synced": false,
+      "path": "select/14_10_Scene_Points_To_The_Winner_Funeral_for_a_Friend.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/15_The_Winner_Takes_It_All_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "Cher",
+      "has_synced": true,
+      "path": "select/16_The_Winner_Takes_It_All_Cher.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "Susan Boyle",
+      "has_synced": true,
+      "path": "select/17_The_Winner_Takes_It_All_Susan_Boyle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THE WINNER",
+      "artist": "松原みき",
+      "has_synced": false,
+      "path": "select/pl_01_THE_WINNER_松原みき.txt"
+    }
+  ]
+}
